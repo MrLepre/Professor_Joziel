@@ -1,0 +1,16 @@
+AUTORIA E TITULARIDADE — SITE PROFESSOR JOZIEL
+
+Autor / desenvolvedor da implementação: Marcelo Rodrigues Barroso Junior
+CPF: 150.459.047-36
+Ano: 2026
+
+IDENTIFICAÇÃO DA OBRA
+Site institucional desenvolvido em HTML, CSS e JavaScript, incluindo estrutura visual, interface, animações, componentes, organização de conteúdo e integração dos recursos fornecidos para o projeto.
+
+DECLARAÇÃO DE AUTORIA
+A presente documentação registra a identificação do autor da implementação deste projeto para fins de atribuição e organização documental. A inclusão do nome no rodapé e no código-fonte serve como aviso de autoria.
+
+ATENÇÃO
+Este arquivo contém CPF e NÃO deve ser publicado em repositório público, página web, CDN, arquivo JavaScript acessível pelo navegador ou qualquer local de acesso aberto sem decisão consciente do titular.
+
+Esta declaração não substitui contrato, licença ou instrumento jurídico específico para disciplinar cessão, licenciamento, remuneração ou uso comercial.

@@ -1,15 +1,18 @@
-VERSÃO 3 — SITE PROFESSOR JOZIEL
+VERSÃO 6 — IDENTIDADE E AUTORIA
 
 Atualizações:
-- Seção de atuação parlamentar ampliada e visualmente maior.
-- Bloco de números do mandato com 2019–2023, proposições, presença e reuniões.
-- Área de registros públicos com emendas, proposição Maio Laranja e presidência de comissão.
-- Linha do tempo 2019–2023.
-- Inclusão dos dois vídeos fornecidos no projeto, com player HTML5.
-- Galeria mantida com as quatro imagens fornecidas.
-- Instagram e grupo de WhatsApp mantidos.
-- Player das duas músicas mantido com alternância automática.
-- Layout responsivo para celular e desktop.
+- Mantém o frontend Premium da V5, com animações, parallax, estatísticas, vídeos, galeria, Reels e player musical.
+- Inclui crédito visível no rodapé: “Desenvolvido por Marcelo Rodrigues Barroso Junior”.
+- Inclui identificação de autoria no código-fonte (comentário no <head>).
+- Inclui documentação complementar de autoria e titularidade distribuída com o projeto.
 
-Observação:
-Os textos de atuação foram redigidos em formato factual/institucional e apontam para fontes públicas. Para incorporar Reels específicos do Instagram, adicione URLs individuais dos Reels ao projeto.
+AUTORIA
+Autor/desenvolvedor: Marcelo Rodrigues Barroso Junior
+CPF: 150.459.047-36
+Ano: 2026
+
+NOTA DE PRIVACIDADE
+O CPF acima foi incluído a pedido do titular em documentação local do projeto. Recomenda-se não publicar esse arquivo em repositórios públicos, hospedagens ou páginas web.
+
+NOTA DE DIREITOS
+A identificação de autoria neste projeto não substitui contratos, licenças ou outros instrumentos jurídicos necessários para definir cessão, uso, pagamento e demais condições comerciais.
